@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myretro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myretro.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pro_spring_boot_3_lc4.iml" filepath="$PROJECT_DIR$/.idea/pro_spring_boot_3_lc4.iml" />
     </modules>
   </component>
